@@ -9,32 +9,32 @@
                     <g>
                         <g>
                             <path d="M159.567,0h-15.329c-1.956,0-3.811,0.411-5.608,0.995c-8.979,2.912-15.616,12.498-15.616,23.997v10.552v27.009v14.052
-                           c0,2.611,0.435,5.078,1.066,7.44c2.702,10.146,10.653,17.552,20.158,17.552h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553
-                           V35.544V24.992C180.791,11.188,171.291,0,159.567,0z" />
+                               c0,2.611,0.435,5.078,1.066,7.44c2.702,10.146,10.653,17.552,20.158,17.552h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553
+                               V35.544V24.992C180.791,11.188,171.291,0,159.567,0z" />
                             <path
                                 d="M461.288,0h-15.329c-11.724,0-21.224,11.188-21.224,24.992v10.552v27.009v14.052c0,13.804,9.5,24.992,21.224,24.992
-                           h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553V35.544V24.992C482.507,11.188,473.007,0,461.288,0z" />
+                               h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553V35.544V24.992C482.507,11.188,473.007,0,461.288,0z" />
                             <path
                                 d="M539.586,62.553h-37.954v14.052c0,24.327-18.102,44.117-40.349,44.117h-15.329c-22.247,0-40.349-19.79-40.349-44.117
-                           V62.553H199.916v14.052c0,24.327-18.102,44.117-40.349,44.117h-15.329c-22.248,0-40.349-19.79-40.349-44.117V62.553H70.818
-                           c-21.066,0-38.15,16.017-38.15,35.764v476.318c0,19.784,17.083,35.764,38.15,35.764h468.763c21.085,0,38.149-15.984,38.149-35.764
-                           V98.322C577.735,78.575,560.671,62.553,539.586,62.553z M527.757,557.9l-446.502-0.172V173.717h446.502V557.9z" />
+                               V62.553H199.916v14.052c0,24.327-18.102,44.117-40.349,44.117h-15.329c-22.248,0-40.349-19.79-40.349-44.117V62.553H70.818
+                               c-21.066,0-38.15,16.017-38.15,35.764v476.318c0,19.784,17.083,35.764,38.15,35.764h468.763c21.085,0,38.149-15.984,38.149-35.764
+                               V98.322C577.735,78.575,560.671,62.553,539.586,62.553z M527.757,557.9l-446.502-0.172V173.717h446.502V557.9z" />
                             <path d="M353.017,266.258h117.428c10.193,0,18.437-10.179,18.437-22.759s-8.248-22.759-18.437-22.759H353.017
-                           c-10.193,0-18.437,10.179-18.437,22.759C334.58,256.074,342.823,266.258,353.017,266.258z" />
+                               c-10.193,0-18.437,10.179-18.437,22.759C334.58,256.074,342.823,266.258,353.017,266.258z" />
                             <path d="M353.017,348.467h117.428c10.193,0,18.437-10.179,18.437-22.759c0-12.579-8.248-22.758-18.437-22.758H353.017
-                           c-10.193,0-18.437,10.179-18.437,22.758C334.58,338.288,342.823,348.467,353.017,348.467z" />
+                               c-10.193,0-18.437,10.179-18.437,22.758C334.58,338.288,342.823,348.467,353.017,348.467z" />
                             <path d="M353.017,430.676h117.428c10.193,0,18.437-10.18,18.437-22.759s-8.248-22.759-18.437-22.759H353.017
-                           c-10.193,0-18.437,10.18-18.437,22.759S342.823,430.676,353.017,430.676z" />
+                               c-10.193,0-18.437,10.18-18.437,22.759S342.823,430.676,353.017,430.676z" />
                             <path d="M353.017,512.89h117.428c10.193,0,18.437-10.18,18.437-22.759c0-12.58-8.248-22.759-18.437-22.759H353.017
-                           c-10.193,0-18.437,10.179-18.437,22.759C334.58,502.71,342.823,512.89,353.017,512.89z" />
+                               c-10.193,0-18.437,10.179-18.437,22.759C334.58,502.71,342.823,512.89,353.017,512.89z" />
                             <path d="M145.032,266.258H262.46c10.193,0,18.436-10.179,18.436-22.759s-8.248-22.759-18.436-22.759H145.032
-                           c-10.194,0-18.437,10.179-18.437,22.759C126.596,256.074,134.838,266.258,145.032,266.258z" />
+                               c-10.194,0-18.437,10.179-18.437,22.759C126.596,256.074,134.838,266.258,145.032,266.258z" />
                             <path d="M145.032,348.467H262.46c10.193,0,18.436-10.179,18.436-22.759c0-12.579-8.248-22.758-18.436-22.758H145.032
-                           c-10.194,0-18.437,10.179-18.437,22.758C126.596,338.288,134.838,348.467,145.032,348.467z" />
+                               c-10.194,0-18.437,10.179-18.437,22.758C126.596,338.288,134.838,348.467,145.032,348.467z" />
                             <path d="M145.032,430.676H262.46c10.193,0,18.436-10.18,18.436-22.759s-8.248-22.759-18.436-22.759H145.032
-                           c-10.194,0-18.437,10.18-18.437,22.759S134.838,430.676,145.032,430.676z" />
+                               c-10.194,0-18.437,10.18-18.437,22.759S134.838,430.676,145.032,430.676z" />
                             <path d="M145.032,512.89H262.46c10.193,0,18.436-10.18,18.436-22.759c0-12.58-8.248-22.759-18.436-22.759H145.032
-                           c-10.194,0-18.437,10.179-18.437,22.759C126.596,502.71,134.838,512.89,145.032,512.89z" />
+                               c-10.194,0-18.437,10.179-18.437,22.759C126.596,502.71,134.838,512.89,145.032,512.89z" />
                         </g>
                     </g>
                 </svg></div>
@@ -225,10 +225,10 @@
             <div class="product-btn bg-white rounded p-2 xl:w-72 flex flex-col items-center shadow hover:shadow-lg cursor-pointer">
                 ${product.image === null
                     ? `<div class="p-4 w-full flex content-center justify-center h-16 bg-gray-100 rounded">
-                                            <svg class="fill-gray-200" height="30px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M21.71,14.54,19.21,12a1,1,0,0,0-1.42,0L15,14.84,12.21,12a1,1,0,0,0-1.42,0L8.5,14.34,6.21,12a1,1,0,0,0-1.42,0l-2.5,2.5a1,1,0,0,0-.21.33,1,1,0,0,0-.08.38V19a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V15.25a1,1,0,0,0-.08-.38A1,1,0,0,0,21.71,14.54ZM20,19a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V15.66l1.5-1.5,2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,17a1,1,0,0,0,1.42,0l2.79-2.8,1.5,1.5ZM19,2H5A3,3,0,0,0,2,5v5.26a1.17,1.17,0,0,0,0,.27s0,.07,0,.1a1,1,0,0,0,1.66.31L5.5,9.16l2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,12a1,1,0,0,0,1.42,0l2.79-2.8,1.77,1.78a1,1,0,0,0,1.66-.31.28.28,0,0,0,0-.09.88.88,0,0,0,.06-.28V5A3,3,0,0,0,19,2Zm1,5.84L19.21,7a1,1,0,0,0-1.42,0L15,9.84,12.21,7a1,1,0,0,0-1.42,0L8.5,9.34,6.21,7A1,1,0,0,0,4.79,7L4,7.84V5A1,1,0,0,1,5,4H19a1,1,0,0,1,1,1Z"/>
-                                            </svg>
-                                          </div>`
+                                                <svg class="fill-gray-200" height="30px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M21.71,14.54,19.21,12a1,1,0,0,0-1.42,0L15,14.84,12.21,12a1,1,0,0,0-1.42,0L8.5,14.34,6.21,12a1,1,0,0,0-1.42,0l-2.5,2.5a1,1,0,0,0-.21.33,1,1,0,0,0-.08.38V19a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V15.25a1,1,0,0,0-.08-.38A1,1,0,0,0,21.71,14.54ZM20,19a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V15.66l1.5-1.5,2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,17a1,1,0,0,0,1.42,0l2.79-2.8,1.5,1.5ZM19,2H5A3,3,0,0,0,2,5v5.26a1.17,1.17,0,0,0,0,.27s0,.07,0,.1a1,1,0,0,0,1.66.31L5.5,9.16l2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,12a1,1,0,0,0,1.42,0l2.79-2.8,1.77,1.78a1,1,0,0,0,1.66-.31.28.28,0,0,0,0-.09.88.88,0,0,0,.06-.28V5A3,3,0,0,0,19,2Zm1,5.84L19.21,7a1,1,0,0,0-1.42,0L15,9.84,12.21,7a1,1,0,0,0-1.42,0L8.5,9.34,6.21,7A1,1,0,0,0,4.79,7L4,7.84V5A1,1,0,0,1,5,4H19a1,1,0,0,1,1,1Z"/>
+                                                </svg>
+                                              </div>`
                     : `<img src="${product.image}" width="150" alt="${product.name}" />`
                 }
                 <div class="product-id hidden">${product.id}</div>
@@ -243,17 +243,54 @@
                     '<div class="col-span-4 text-center text-gray-400">Produk tidak ditemukan.</div>';
             }
             allProducts();
-        
+
+            const quantityHandler = () => {
+                const allOrderItems = Array.from(orderItems.children)
+
+                allOrderItems.forEach(item => {
+                    const minusCart = item.querySelector('#minus-cart')
+                    const plusCart = item.querySelector('#plus-cart')
+                    const qtyCart = item.querySelector('#qty-cart')
+                    const qtyInput = item.querySelector('input[name="quantity[]"]')
+
+                    minusCart.replaceWith(minusCart.cloneNode(true))
+                    plusCart.replaceWith(plusCart.cloneNode(true))
+
+                    newMinus = item.querySelector('#minus-cart')
+                    newPlus = item.querySelector('#plus-cart')
+                    newMinus.addEventListener('click', () => {
+                        let currentQty = parseInt(qtyCart.innerText)
+                        if (currentQty > 1) {
+                            currentQty--
+                            qtyCart.innerText = currentQty
+                            qtyInput.value = currentQty
+                            countTotalPrice()
+                        }
+                    })
+
+                    newPlus.addEventListener('click', () => {
+                        let currentQty = parseInt(qtyCart.innerText);
+                        currentQty++;
+                        qtyCart.innerText = currentQty;
+                        qtyInput.value = currentQty;
+                        countTotalPrice();
+                    });
+                })
+
+            }
+
             const countTotalPrice = () => {
                 const allOrderElements = Array.from(orderItems.children)
                 let totalPrice = 0
                 let totalProfit = 0
 
                 allOrderElements.forEach(item => {
-                    const price = parseInt(item.querySelector('p').innerText.split(',')[0].replace(/[^0-9]/g, ''))
+                    const price = parseInt(item.querySelector('p').innerText.split(',')[0].replace(
+                        /[^0-9]/g, ''))
                     console.log(price)
                     const quantity = parseInt(item.querySelector('#qty-cart').innerText);
-                    const purchasePrice = parseInt(item.querySelector('input[name="purchase_price"]').value);
+                    const purchasePrice = parseInt(item.querySelector('input[name="purchase_price"]')
+                        .value);
 
                     const itemTotal = price * quantity
                     const itemProfit = itemTotal - (purchasePrice * quantity)
@@ -267,7 +304,7 @@
                 profitInput.value = totalProfit
             }
 
-            
+
 
             const addProductToOrder = () => {
                 const productButtons = document.querySelectorAll('.product-btn');
@@ -314,7 +351,7 @@
                         selectedPurchasePrice = btn.querySelector('.purchase-price').innerText;
 
                         popUpMenu.querySelector('#product-name').innerText =
-                        selectedProductName;
+                            selectedProductName;
                         popUpMenu.querySelector('#product-price').innerText =
                             selectedProductPrice;
 
@@ -332,8 +369,9 @@
                         const qtyElement = existingItem.querySelector('#qty-cart');
                         const currentQtyInCart = parseInt(qtyElement.innerText);
                         qtyElement.innerText = currentQtyInCart + currentQty;
-                        existingItem.querySelector('input[name="quantity[]"]').value = currentQtyInCart + currentQty;
-                            countTotalPrice()
+                        existingItem.querySelector('input[name="quantity[]"]').value =
+                            currentQtyInCart + currentQty;
+                        countTotalPrice()
                     } else {
                         const orderList = `
                 <div class="flex justify-between">
@@ -360,6 +398,7 @@
                         const el = document.createElement('div');
                         el.innerHTML = orderList;
                         orderItems.appendChild(el.firstElementChild);
+                        quantityHandler()
                         countTotalPrice()
                     }
 
