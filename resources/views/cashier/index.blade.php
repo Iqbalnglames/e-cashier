@@ -9,32 +9,38 @@
                     <g>
                         <g>
                             <path d="M159.567,0h-15.329c-1.956,0-3.811,0.411-5.608,0.995c-8.979,2.912-15.616,12.498-15.616,23.997v10.552v27.009v14.052
-                               c0,2.611,0.435,5.078,1.066,7.44c2.702,10.146,10.653,17.552,20.158,17.552h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553
-                               V35.544V24.992C180.791,11.188,171.291,0,159.567,0z" />
+                                       c0,2.611,0.435,5.078,1.066,7.44c2.702,10.146,10.653,17.552,20.158,17.552h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553
+                                       V35.544V24.992C180.791,11.188,171.291,0,159.567,0z" />
                             <path
                                 d="M461.288,0h-15.329c-11.724,0-21.224,11.188-21.224,24.992v10.552v27.009v14.052c0,13.804,9.5,24.992,21.224,24.992
-                               h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553V35.544V24.992C482.507,11.188,473.007,0,461.288,0z" />
+                                       h15.329c11.724,0,21.224-11.188,21.224-24.992V62.553V35.544V24.992C482.507,11.188,473.007,0,461.288,0z" />
                             <path
                                 d="M539.586,62.553h-37.954v14.052c0,24.327-18.102,44.117-40.349,44.117h-15.329c-22.247,0-40.349-19.79-40.349-44.117
-                               V62.553H199.916v14.052c0,24.327-18.102,44.117-40.349,44.117h-15.329c-22.248,0-40.349-19.79-40.349-44.117V62.553H70.818
-                               c-21.066,0-38.15,16.017-38.15,35.764v476.318c0,19.784,17.083,35.764,38.15,35.764h468.763c21.085,0,38.149-15.984,38.149-35.764
-                               V98.322C577.735,78.575,560.671,62.553,539.586,62.553z M527.757,557.9l-446.502-0.172V173.717h446.502V557.9z" />
-                            <path d="M353.017,266.258h117.428c10.193,0,18.437-10.179,18.437-22.759s-8.248-22.759-18.437-22.759H353.017
-                               c-10.193,0-18.437,10.179-18.437,22.759C334.58,256.074,342.823,266.258,353.017,266.258z" />
-                            <path d="M353.017,348.467h117.428c10.193,0,18.437-10.179,18.437-22.759c0-12.579-8.248-22.758-18.437-22.758H353.017
-                               c-10.193,0-18.437,10.179-18.437,22.758C334.58,338.288,342.823,348.467,353.017,348.467z" />
+                                       V62.553H199.916v14.052c0,24.327-18.102,44.117-40.349,44.117h-15.329c-22.248,0-40.349-19.79-40.349-44.117V62.553H70.818
+                                       c-21.066,0-38.15,16.017-38.15,35.764v476.318c0,19.784,17.083,35.764,38.15,35.764h468.763c21.085,0,38.149-15.984,38.149-35.764
+                                       V98.322C577.735,78.575,560.671,62.553,539.586,62.553z M527.757,557.9l-446.502-0.172V173.717h446.502V557.9z" />
+                            <path
+                                d="M353.017,266.258h117.428c10.193,0,18.437-10.179,18.437-22.759s-8.248-22.759-18.437-22.759H353.017
+                                       c-10.193,0-18.437,10.179-18.437,22.759C334.58,256.074,342.823,266.258,353.017,266.258z" />
+                            <path
+                                d="M353.017,348.467h117.428c10.193,0,18.437-10.179,18.437-22.759c0-12.579-8.248-22.758-18.437-22.758H353.017
+                                       c-10.193,0-18.437,10.179-18.437,22.758C334.58,338.288,342.823,348.467,353.017,348.467z" />
                             <path d="M353.017,430.676h117.428c10.193,0,18.437-10.18,18.437-22.759s-8.248-22.759-18.437-22.759H353.017
-                               c-10.193,0-18.437,10.18-18.437,22.759S342.823,430.676,353.017,430.676z" />
-                            <path d="M353.017,512.89h117.428c10.193,0,18.437-10.18,18.437-22.759c0-12.58-8.248-22.759-18.437-22.759H353.017
-                               c-10.193,0-18.437,10.179-18.437,22.759C334.58,502.71,342.823,512.89,353.017,512.89z" />
-                            <path d="M145.032,266.258H262.46c10.193,0,18.436-10.179,18.436-22.759s-8.248-22.759-18.436-22.759H145.032
-                               c-10.194,0-18.437,10.179-18.437,22.759C126.596,256.074,134.838,266.258,145.032,266.258z" />
-                            <path d="M145.032,348.467H262.46c10.193,0,18.436-10.179,18.436-22.759c0-12.579-8.248-22.758-18.436-22.758H145.032
-                               c-10.194,0-18.437,10.179-18.437,22.758C126.596,338.288,134.838,348.467,145.032,348.467z" />
+                                       c-10.193,0-18.437,10.18-18.437,22.759S342.823,430.676,353.017,430.676z" />
+                            <path
+                                d="M353.017,512.89h117.428c10.193,0,18.437-10.18,18.437-22.759c0-12.58-8.248-22.759-18.437-22.759H353.017
+                                       c-10.193,0-18.437,10.179-18.437,22.759C334.58,502.71,342.823,512.89,353.017,512.89z" />
+                            <path
+                                d="M145.032,266.258H262.46c10.193,0,18.436-10.179,18.436-22.759s-8.248-22.759-18.436-22.759H145.032
+                                       c-10.194,0-18.437,10.179-18.437,22.759C126.596,256.074,134.838,266.258,145.032,266.258z" />
+                            <path
+                                d="M145.032,348.467H262.46c10.193,0,18.436-10.179,18.436-22.759c0-12.579-8.248-22.758-18.436-22.758H145.032
+                                       c-10.194,0-18.437,10.179-18.437,22.758C126.596,338.288,134.838,348.467,145.032,348.467z" />
                             <path d="M145.032,430.676H262.46c10.193,0,18.436-10.18,18.436-22.759s-8.248-22.759-18.436-22.759H145.032
-                               c-10.194,0-18.437,10.18-18.437,22.759S134.838,430.676,145.032,430.676z" />
-                            <path d="M145.032,512.89H262.46c10.193,0,18.436-10.18,18.436-22.759c0-12.58-8.248-22.759-18.436-22.759H145.032
-                               c-10.194,0-18.437,10.179-18.437,22.759C126.596,502.71,134.838,512.89,145.032,512.89z" />
+                                       c-10.194,0-18.437,10.18-18.437,22.759S134.838,430.676,145.032,430.676z" />
+                            <path
+                                d="M145.032,512.89H262.46c10.193,0,18.436-10.18,18.436-22.759c0-12.58-8.248-22.759-18.436-22.759H145.032
+                                       c-10.194,0-18.437,10.179-18.437,22.759C126.596,502.71,134.838,512.89,145.032,512.89z" />
                         </g>
                     </g>
                 </svg></div>
@@ -80,6 +86,101 @@
     </script>
 @endsection
 @section('content')
+    <style>
+        .checkmark {
+            display: inline-block;
+            transform: rotate(45deg);
+            height: 34px;
+            width: 15px;
+            margin-left: 10%;
+            border-bottom: 8px solid white;
+            border-right: 8px solid white;
+        }
+    </style>
+
+    @if (session('success'))
+        {{-- Overlay --}}
+        <div id="success-overlay"
+            class="w-screen h-screen fixed inset-0 bg-black opacity-0 z-30 transition-opacity duration-500 pointer-events-auto">
+        </div>
+
+        {{-- Alert --}}
+        <div id="success-alert"
+            class="fixed bg-white z-40 h-52 w-80 rounded-md drop-shadow-md
+        transition-all duration-500 transform translate-y-[-100%] opacity-0
+        left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 space-y-4">
+            {{-- Green circle with checkmark --}}
+            <div
+                class="rounded-full bg-green-400 w-20 h-20 absolute left-1/2 -translate-x-1/2 -top-8 
+            flex items-center justify-center p-4 drop-shadow-xl
+            transition-transform duration-500 transform scale-0">
+                <div class="checkmark transition-transform duration-500 transform scale-0"></div>
+            </div>
+
+            {{-- Content --}}
+            <div class="flex items-center justify-center mt-20">
+                <div>
+                    <h1 class="text-center text-2xl font-bold transition-opacity duration-500 opacity-0">
+                        Transaksi Berhasil
+                    </h1>
+                    <p class="text-center font-light text-sm transition-opacity duration-500 opacity-0">
+                        Orderan telah berhasil tersimpan
+                    </p>
+                </div>
+            </div>
+
+            {{-- Button --}}
+            <div class="flex justify-center">
+                <button id="success-close"
+                    class="p-2 rounded-sm bg-green-400 hover:bg-green-500 text-white
+                transition-all duration-300 transform scale-0">
+                    Tutup
+                </button>
+            </div>
+        </div>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const overlay = document.getElementById('success-overlay');
+                const alert = document.getElementById('success-alert');
+                const checkmark = document.querySelector('.checkmark');
+                const title = alert.querySelector('h1');
+                const text = alert.querySelector('p');
+                const button = document.getElementById('success-close');
+                const circle = alert.querySelector('.rounded-full');
+
+                // Show animation
+                setTimeout(() => {
+                    overlay.classList.add('opacity-50');
+                    alert.classList.remove('translate-y-[-100%]', 'opacity-0');
+                    circle.classList.remove('scale-0');
+                    setTimeout(() => {
+                        checkmark.classList.remove('scale-0');
+                        title.classList.remove('opacity-0');
+                        text.classList.remove('opacity-0');
+                        button.classList.remove('scale-0');
+                    }, 400);
+                }, 100);
+
+                // Close animation
+                button.addEventListener('click', () => {
+                    button.classList.add('scale-0');
+                    title.classList.add('opacity-0');
+                    text.classList.add('opacity-0');
+                    checkmark.classList.add('scale-0');
+                    setTimeout(() => {
+                        circle.classList.add('scale-0');
+                        alert.classList.add('translate-y-[-100%]', 'opacity-0');
+                        overlay.classList.remove('opacity-50');
+                    }, 300);
+                    setTimeout(() => {
+                        overlay.classList.add('hidden');
+                        alert.classList.add('hidden');
+                    }, 800);
+                });
+            });
+        </script>
+    @endif
     <div class="flex">
         <!-- Main Content -->
         <main class="flex-1 flex flex-col">
@@ -114,7 +215,7 @@
                 <h2 class="text-lg font-semibold">Choose <span class="font-normal">Order</span></h2>
             </div>
             <!-- Menu Grid -->
-            <div id="product-list" class="grid grid-cols-5 w-fit gap-6">
+            <div id="product-list" class="grid xl:grid-cols-4 grid-cols-5 w-fit gap-6">
             </div>
         </main>
         <!-- Order Menu -->
@@ -155,7 +256,8 @@
                 <h1 class="text-center">Detail Menu</h1>
                 <div id="close-btn"
                     class="absolute right-2 top-2 rounded-full text-red-400 cursor-pointer bg-red-100 h-7 w-7 text-center font-light">
-                    X</div>
+                    X
+                </div>
             </div>
             <div id="img-cover" class="p-4 w-full flex place-items-center justify-center h-40 bg-gray-100 rounded">
                 <svg class="fill-gray-200" height="30px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -193,6 +295,7 @@
             const profitInput = document.getElementById('profit-input');
             const searchBox = document.querySelector('input[type="text"]');
             const orderItems = document.querySelector('#order-item')
+
             searchBox.addEventListener('input', function() {
                 const searchTerm = this.value.toLowerCase()
                 const filteredProducts = allData.filter(product => product.name.toLowerCase().includes(
@@ -222,14 +325,16 @@
             const allProducts = () => {
                 const showAllData = allData.map(product => {
                     return `
-            <div class="product-btn bg-white rounded p-2 xl:w-72 flex flex-col items-center shadow hover:shadow-lg cursor-pointer">
+            <div class="product-btn bg-white rounded p-2 xl:w-60 flex flex-col items-center shadow hover:shadow-lg cursor-pointer">
                 ${product.image === null
-                    ? `<div class="p-4 w-full flex content-center justify-center h-16 bg-gray-100 rounded">
-                                                <svg class="fill-gray-200" height="30px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M21.71,14.54,19.21,12a1,1,0,0,0-1.42,0L15,14.84,12.21,12a1,1,0,0,0-1.42,0L8.5,14.34,6.21,12a1,1,0,0,0-1.42,0l-2.5,2.5a1,1,0,0,0-.21.33,1,1,0,0,0-.08.38V19a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V15.25a1,1,0,0,0-.08-.38A1,1,0,0,0,21.71,14.54ZM20,19a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V15.66l1.5-1.5,2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,17a1,1,0,0,0,1.42,0l2.79-2.8,1.5,1.5ZM19,2H5A3,3,0,0,0,2,5v5.26a1.17,1.17,0,0,0,0,.27s0,.07,0,.1a1,1,0,0,0,1.66.31L5.5,9.16l2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,12a1,1,0,0,0,1.42,0l2.79-2.8,1.77,1.78a1,1,0,0,0,1.66-.31.28.28,0,0,0,0-.09.88.88,0,0,0,.06-.28V5A3,3,0,0,0,19,2Zm1,5.84L19.21,7a1,1,0,0,0-1.42,0L15,9.84,12.21,7a1,1,0,0,0-1.42,0L8.5,9.34,6.21,7A1,1,0,0,0,4.79,7L4,7.84V5A1,1,0,0,1,5,4H19a1,1,0,0,1,1,1Z"/>
-                                                </svg>
-                                              </div>`
-                    : `<img src="${product.image}" width="150" alt="${product.name}" />`
+                    ? `<div class="product-image p-4 w-full flex content-center justify-center xl:h-28 h-16 items-center bg-gray-100 rounded">
+                                                        <svg class="fill-gray-200" height="30px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M21.71,14.54,19.21,12a1,1,0,0,0-1.42,0L15,14.84,12.21,12a1,1,0,0,0-1.42,0L8.5,14.34,6.21,12a1,1,0,0,0-1.42,0l-2.5,2.5a1,1,0,0,0-.21.33,1,1,0,0,0-.08.38V19a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V15.25a1,1,0,0,0-.08-.38A1,1,0,0,0,21.71,14.54ZM20,19a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V15.66l1.5-1.5,2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,17a1,1,0,0,0,1.42,0l2.79-2.8,1.5,1.5ZM19,2H5A3,3,0,0,0,2,5v5.26a1.17,1.17,0,0,0,0,.27s0,.07,0,.1a1,1,0,0,0,1.66.31L5.5,9.16l2.29,2.3a1,1,0,0,0,1.42,0l2.29-2.3L14.29,12a1,1,0,0,0,1.42,0l2.79-2.8,1.77,1.78a1,1,0,0,0,1.66-.31.28.28,0,0,0,0-.09.88.88,0,0,0,.06-.28V5A3,3,0,0,0,19,2Zm1,5.84L19.21,7a1,1,0,0,0-1.42,0L15,9.84,12.21,7a1,1,0,0,0-1.42,0L8.5,9.34,6.21,7A1,1,0,0,0,4.79,7L4,7.84V5A1,1,0,0,1,5,4H19a1,1,0,0,1,1,1Z"/>
+                                                        </svg>
+                                                      </div>`
+                    : `<div class="product-image p-4 w-full flex content-center justify-center xl:h-28 h-16 bg-cover bg-center rounded"
+                                   style="background-image: url('/storage/products/${product.image}')">
+                              </div>`
                 }
                 <div class="product-id hidden">${product.id}</div>
                 <div class="product-name font-semibold">${product.name}</div>
@@ -321,6 +426,7 @@
                 let selectedProductName = '';
                 let selectedProductPrice = '';
                 let selectedProductPurchasePrice = '';
+                let selectedImageProduct = '';
 
                 // Remove existing listeners
                 productButtons.forEach(btn => btn.replaceWith(btn.cloneNode(true)));
@@ -349,6 +455,19 @@
                         selectedProductName = btn.querySelector('.product-name').innerText;
                         selectedProductPrice = btn.querySelector('.product-price').innerText;
                         selectedPurchasePrice = btn.querySelector('.purchase-price').innerText;
+                        selectedImageProduct = btn.querySelector('.product-image')
+                        const svgEl = popUpMenu.querySelector('svg')
+                        if (selectedImageProduct.src !== undefined) {
+                            const imgCover = popUpMenu.querySelector('#img-cover')
+                            svgEl.classList.add('hidden')
+                            imgCover.style.backgroundImage = `url(${selectedImageProduct.src})`
+                            imgCover.style.backgroundSize = 'cover'
+                            imgCover.style.backgroundPosition = 'center'
+                        } else {
+                            const imgCover = popUpMenu.querySelector('#img-cover')
+                            imgCover.style.backgroundImage = `url(${selectedImageProduct.src})`
+                            svgEl.classList.remove('hidden')
+                        }
 
                         popUpMenu.querySelector('#product-name').innerText =
                             selectedProductName;
