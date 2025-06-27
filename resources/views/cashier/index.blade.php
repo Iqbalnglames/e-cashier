@@ -392,7 +392,6 @@
                 allOrderElements.forEach(item => {
                     const price = parseInt(item.querySelector('p').innerText.split(',')[0].replace(
                         /[^0-9]/g, ''))
-                    console.log(price)
                     const quantity = parseInt(item.querySelector('#qty-cart').innerText);
                     const purchasePrice = parseInt(item.querySelector('input[name="purchase_price"]')
                         .value);
@@ -456,16 +455,17 @@
                         selectedProductPrice = btn.querySelector('.product-price').innerText;
                         selectedPurchasePrice = btn.querySelector('.purchase-price').innerText;
                         selectedImageProduct = btn.querySelector('.product-image')
+                        const style = selectedImageProduct.currentStyle || window.getComputedStyle(selectedImageProduct, false);
+                        const backgroundImage = style.backgroundImage.slice(4, -1).replace(/"/g, "");
                         const svgEl = popUpMenu.querySelector('svg')
-                        if (selectedImageProduct.src !== undefined) {
+                        if (backgroundImage !== undefined) {
                             const imgCover = popUpMenu.querySelector('#img-cover')
                             svgEl.classList.add('hidden')
-                            imgCover.style.backgroundImage = `url(${selectedImageProduct.src})`
+                            imgCover.style.backgroundImage = `url(${backgroundImage})`
                             imgCover.style.backgroundSize = 'cover'
                             imgCover.style.backgroundPosition = 'center'
                         } else {
                             const imgCover = popUpMenu.querySelector('#img-cover')
-                            imgCover.style.backgroundImage = `url(${selectedImageProduct.src})`
                             svgEl.classList.remove('hidden')
                         }
 
@@ -502,14 +502,14 @@
                     </div>
                     <div class="flex items-center justify-between w-24 px-2 py-1 bg-gray-100 rounded-full">
                         <button type="button" id="minus-cart" class="flex items-center justify-center w-6 h-6 text-gray-600 transition-colors bg-white rounded-full hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-300">
-                            <span class="text-lg font-medium leading-none select-none">−</span>
+                            <span class="text-lg font-medium leading-none select-none -mt-1">−</span>
                         </button>
                         <span id="qty-cart" class="font-medium text-sm text-gray-700 select-none">${currentQty}</span>
                         <input type="hidden" name="product_id[]" value="${selectedProductId}">
                         <input type="hidden" name="quantity[]" value="${currentQty}">
                         <input type="hidden" name="purchase_price" value="${selectedPurchasePrice}">
                         <button type="button" id="plus-cart" class="flex items-center justify-center w-6 h-6 text-gray-600 transition-colors bg-white rounded-full hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-300">
-                            <span class="text-lg font-medium leading-none select-none">+</span>
+                            <span class="text-lg font-medium leading-none select-none -mt-1">+</span>
                         </button>
                     </div>
                 </div>

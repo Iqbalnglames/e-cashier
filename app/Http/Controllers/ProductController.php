@@ -31,7 +31,7 @@ class ProductController extends Controller
      */
     public function store(Request $request)
     {
-        $validated = $request->validate([
+        $request->validate([
             'name' => 'required|string|max:255',
             'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
             'purchase_price' => 'required|numeric',
@@ -39,7 +39,17 @@ class ProductController extends Controller
             'category_id' => 'required|exists:categories,id',
         ]);
 
-        Product::create($validated);
+        $image = $request->file('image');
+        $image->storeAs('products', $image->hashName());
+
+        Product::create([
+            'image' => $image->hashName(),
+            'name' => $request->name,
+            'purchase_price' => $request->purchase_price,
+            'selling_price' => $request->selling_price,
+            'category_id' => $request->category_id,
+
+        ]);
 
         return redirect()->route('tambah-produk')->with('success', 'Produk berhasil ditambahkan.');
     }

@@ -5,8 +5,8 @@
 @endsection
 @section('content')
 <div class="container mx-auto">
-        @if(session('message'))
-            <h1>{{session('message')}}</h1>
+        @if(session('success'))
+            <h1>{{session('success')}}</h1>
         @endif
         <form action="/tambah-produk" enctype="multipart/form-data" method="POST">
             @csrf

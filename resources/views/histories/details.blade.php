@@ -13,7 +13,10 @@
             @foreach ($transactionDetails as $detail)
             <div class="flex justify-between">
                 <p>{{ $detail->product->name }}</p>
-                <p>Rp. {{ number_format($detail->product->selling_price, 0, ',', '.'); }}</p>
+                <div class="flex space-x-1">
+                    <p class="font-light">x{{ $detail->quantity }}</p>
+                    <p>Rp. {{ number_format($detail->product->selling_price, 0, ',', '.'); }}</p>
+            </div>
             </div>
             @endforeach
         </div>
@@ -23,4 +26,8 @@
             <p>Rp. {{ number_format($transactions->total_price, 0, ',', '.'); }}</p>
         </div>
     </div>
+    <script>
+        const transactionDetails = @json($transactionDetails);
+        console.log(transactionDetails);
+    </script>
 @endsection
