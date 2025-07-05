@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Product;
 use App\Models\Category;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 
 class ProductController extends Controller
 {
@@ -67,7 +68,8 @@ class ProductController extends Controller
      */
     public function edit(Product $product)
     {
-        //
+        $categories = Category::all();
+        return view('products.edit', compact('product', 'categories'));
     }
 
     /**
@@ -75,7 +77,33 @@ class ProductController extends Controller
      */
     public function update(Request $request, Product $product)
     {
-        //
+         $request->validate([
+            'name' => 'required|string|max:255',
+            'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+            'purchase_price' => 'required|numeric',
+            'selling_price' => 'required|numeric',
+            'category_id' => 'required|exists:categories,id',
+        ]);
+
+        // dd($request->all());
+
+        $data = [
+        'name' => $request->name,
+        'purchase_price' => $request->purchase_price,
+        'selling_price' => $request->selling_price,
+        'category_id' => $request->category_id,
+        ];
+
+        if ($request->hasFile('image')) {
+            $image = $request->file('image');
+            $image->storeAs('products', $image->hashName());
+            $data['image'] = $image->hashName();
+            Storage::delete('products/' . $product->image);
+        }
+        
+        $product->update($data);
+
+        return redirect()->route('data-produk')->with('success', 'Produk berhasil diperbarui');
     }
 
     /**
