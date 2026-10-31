@@ -6,7 +6,20 @@
 @section('content')
 <div class="container mx-auto">
         @if(session('success'))
+        <div id="alert" class="bg-green-100 border opacity-100 border-green-400 text-green-700 px-4 py-3 rounded-sm relative my-2" role="alert">
             <h1>{{session('success')}}</h1>
+        </div>
+        <script>
+            setTimeout(() => {
+                const alert = document.getElementById('alert');
+                if (alert) {
+                    alert.style.opacity = '0'
+                    setTimeout(() -> {
+                        alert.style.display = 'none';
+                    }, 200)
+                }
+            }, 3000);
+        </script>
         @endif
         <form action="/tambah-produk" enctype="multipart/form-data" method="POST">
             @csrf
