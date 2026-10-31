@@ -27,7 +27,7 @@
                     <td class="py-2 px-4 border-b">{{ $product->category->name }}</td>
                     <td class="py-2 px-4 border-b">{{ $product->selling_price }}</td>
                     <td class="py-2 px-4 border-b">
-                        <a href="/produk/{{ $product->id }}/edit" class="text-blue-500 hover:underline">Edit</a>
+                        <a href="/edit-produk/{{ $product->id }}" class="text-blue-500 hover:underline">Edit</a>
                         |
                         <form action="/produk/{{ $product->id }}" method="POST" style="display:inline;">
                             @csrf

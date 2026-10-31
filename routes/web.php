@@ -6,9 +6,11 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\TransactionController;
 
-Route::get('data-produk', [ProductController::class, 'index']);
+Route::get('data-produk', [ProductController::class, 'index'])->name('data-produk');
 Route::get('tambah-produk', [ProductController::class, 'create'])->name('tambah-produk');
 Route::post('tambah-produk', [ProductController::class, 'store']);
+Route::get('edit-produk/{product}', [ProductController::class, 'edit'])->name('edit-produk');
+Route::put('update-produk/{product}', [ProductController::class, 'update'])->name('update-produk');
 
 Route::get('data-kategori', [CategoryController::class, 'index']);
 Route::get('tambah-kategori', [CategoryController::class, 'create'])->name('tambah-kategori');
