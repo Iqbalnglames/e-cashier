@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 
 class CategoryController extends Controller
 {
-     public function index()
+    public function index()
     {
         $categories = Category::paginate(10);
         return response()->json([
@@ -31,4 +31,42 @@ class CategoryController extends Controller
             'message' => 'data berhasil ditambahkan'
         ]);
     }
+
+    public function edit(Category $category)
+    {
+        return response()->json([
+            "success" => true,
+            "message" => "data detail kategori",
+            "data" => $category
+        ]);
+    }
+
+    public function update(Request $request, Category $category)
+    {
+        $request->validate([
+            'name' => 'required|string|max:255',
+        ]);
+
+        $data = [
+            'name' => $request->name,
+        ];
+
+
+        $category->update($data);
+
+        return response()->json([
+            "success" => true,
+            "message" => "data berhasil diupdate",
+        ]);
+    }
+
+    public function destroy(Category $category)
+    {
+        $category->delete();
+        return response()->json([
+            'success' => true,
+            'message' => 'kategori berhasil dihapus'
+        ]);
+    }
+
 }

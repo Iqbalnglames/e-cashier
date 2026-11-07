@@ -12,9 +12,10 @@ Route::post('tambah-produk', [ProductController::class, 'store']);
 Route::get('edit-produk/{product}', [ProductController::class, 'edit'])->name('edit-produk');
 Route::put('update-produk/{product}', [ProductController::class, 'update'])->name('update-produk');
 
-Route::get('data-kategori', [CategoryController::class, 'index']);
+Route::get('data-kategori', [CategoryController::class, 'index'])->name('data-kategori');
 Route::get('tambah-kategori', [CategoryController::class, 'create'])->name('tambah-kategori');
 Route::post('tambah-kategori', [CategoryController::class, 'store']);
+Route::delete('hapus-kategori/{category}', [CategoryController::class, 'destroy']);
 
 Route::get('/', [TransactionController::class, 'index'])->name('home');
 Route::post('transaction', [TransactionController::class, 'store'])->name('transaction');

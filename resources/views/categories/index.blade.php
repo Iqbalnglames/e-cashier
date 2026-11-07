@@ -25,7 +25,7 @@
                     <td class="py-2 px-4 border-b">
                         <a href="/kategori/{{ $category->id }}/edit" class="text-blue-500 hover:underline">Edit</a>
                         |
-                        <form action="/kategori/{{ $category->id }}" method="POST" style="display:inline;">
+                        <form action="{{ url('hapus-kategori/'. $category->id)  }}" method="POST" style="display:inline;">
                             @csrf
                             @method('DELETE')
                             <button type="submit" class="text-red-500 hover:underline">Hapus</button>
@@ -35,5 +35,12 @@
             @endforeach
         </tbody>
     </table>
+    <div class="fixed left-[35%] bg-white w-64 h-32 drop-shadow-2xl rounded-lg text-center p-4 flex flex-col space-y-4">
+        <h1>Apakah anda yakin akan menghapus?</h1>
+        <div>
+            <a  class="px-4 py-2.5 bg-blue-500 hover:bg-blue-700 text-white rounded">Ya</a>
+            <a  class="bg-red-500 text-white px-4 py-2.5 rounded" href="#">Tidak</a>
+        </div>
+    </div>
 </div>
 @endsection
