@@ -23,5 +23,5 @@ Route::get('detail-produk/{product}', [ProductController::class, 'edit']);
 Route::put('update-produk/{product}', [ProductController::class, 'update']);
 Route::delete('hapus-produk/{product}', [ProductController::class, 'destroy']);
 Route::post('tambah-produk', [ProductController::class, 'store']);
-Route::get('data-transaksi', [TransactionController::class, 'index']);
-Route::post('transaksi', [TransactionController::class, 'store'])->name('transaction');
+
+Route::post('transaksi', [TransactionController::class, 'store']);
